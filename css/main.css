@@ -1,0 +1,64 @@
+.navbar-default {
+	margin-bottom:0px;
+}
+}
+h1 {
+	font-size: 25px;
+	text-align:center;
+}
+h2, .h2 {
+	text-align:center;
+	font-size:15px;
+}
+h2, .h2, h3, .h3 {
+	margin-top: 25px;
+}
+img {
+	padding-top: 30px;
+	text-align:center; 
+}
+.row {
+	background-color:powderblue;
+}
+h3 {font-size: 37px;
+	padding-top: 40px;
+	text-align: center;
+	color:white;
+}
+img {
+	padding-left:20px; 
+	width: 50%;
+}
+h2, .h2, h3, .h3 {
+    padding-right: 100px;
+}
+
+
+.nav {
+	padding-top: 50px;
+    padding-left: 300px;
+    margin-bottom: 0;
+    list-style: none;
+    }
+ div.col-md-4 {
+ 	padding-right:0px;
+ }
+button, input, optgroup, select, textarea {
+    margin: 5px;
+    font: inherit;
+    color: inherit;
+    text-align: center;
+    margin-left: 470px;
+}
+p {
+	padding-left: 20px;
+	padding-top:30px; 
+}
+#new {
+
+	background-color: white;
+    padding-right: 0px;
+}
+#old {
+	background-color:white;
+}
